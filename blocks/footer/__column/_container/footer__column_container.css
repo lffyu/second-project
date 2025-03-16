@@ -1,0 +1,5 @@
+.footer__column_container {
+    display: flex;
+    justify-content: space-between;
+    gap: 200px;
+  }

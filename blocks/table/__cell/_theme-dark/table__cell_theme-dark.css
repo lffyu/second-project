@@ -1,0 +1,12 @@
+.table__cell_theme_dark {
+    width: 200px;
+    z-index: 2;
+  }
+  
+  .table_cell_theme_dark:nth-of-type(1),
+  .table_cell_theme_dark:nth-of-type(2),
+  .table_cell_theme_dark:nth-of-type(3),
+  .table_cell_theme_dark:nth-of-type(4),
+  .table_cell_theme_dark:nth-of-type(5) {
+    margin-bottom: 80px;
+  }
